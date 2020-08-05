@@ -1,5 +1,3 @@
-# Venom Softworks
-# Official Release of Venom
 
 # Welcome to Venom. By Venom Softworks.
 
